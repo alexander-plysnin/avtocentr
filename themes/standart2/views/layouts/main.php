@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="language" content="ru" />
 <meta name = "description" content = "<?php if(isset($this->contents)):?><?php $this->widget('avp.GenTitle', array('links'=>$this->contents)); ?><?php endif?>"/>
-<meta name = "keywords" content="автостраховка, техосмотр,диагнотика,авто,машину,регистация,осаго,каско,гос,знак" />
+<meta name = "keywords" content="техосмотр автомобиля,автостраховка, техосмотр,диагнотика,авто,машину,регистация,осаго,каско,гос,знак" />
    
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
